@@ -80,6 +80,7 @@ def topological_sort(V, adj):
   - [CP Algorithms - Topological Sort](https://cp-algorithms.com/graph/topological-sort.html)
   - GitHub 검색: `topological sort python`
 
-- **주의사항**
+
+***문서 가이드***
   - 외부 콘텐츠를 인용할 경우, 반드시 출처를 명시하고 링크를 제공할 것
   - 이미지, 도표 등은 직접 제작하거나, 라이선스가 허용된 자료만 사용할 것
